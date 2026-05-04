@@ -2,6 +2,8 @@
 
 **by** Duarte Moura
 
+Colab Link: https://colab.research.google.com/drive/1vk1UAmZEJVb2_OU9ssC8vzLzOMproRXB?usp=sharing
+
 ## What problem am I trying to solve? 
 
 Building on prior work showing that refusal behavior is mediated by a single direction in the residual stream, my goal in this study was to identify the minimal individual component ablations responsible for refusals with minimal intervention. Specifically, I aimed to determine which transformer components contribute to refusal behavior and how they interact with the model’s broader decision-making processes. I will use the word ‘circuit’ some times, because I do try some approaches where causal ablation is attempted, but this work reflects mainly on individual components of the transformer, and what their individual contribution to refusal is.
